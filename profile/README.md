@@ -1,12 +1,30 @@
-## Hi there 👋
+# GDG Cartagena
 
-<!--
+Somos la comunidad oficial de **Google Developer Groups (GDG)** en Cartagena, Colombia.
+Un espacio abierto para desarrolladores, estudiantes y entusiastas de la tecnología que quieren **aprender, crear y competir**.
 
-**Here are some ideas to get you started:**
+## Qué hacemos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 🚀 Hackathons y **Programatón (Aprende, Crea y Compite)**
+* 🎉 DevFest
+* 📚 Study Jams y talleres prácticos
+* 🌐 Eventos virtuales y charlas técnicas
+* 👩‍💻 Women Techmakers como parte del ecosistema GDG
+* 📦 Recursos, guías, grabaciones y herramientas para la comunidad
+
+Nuestro enfoque es el aprendizaje práctico, la creación de proyectos reales y el fortalecimiento del talento tecnológico local.
+
+## Comunidad
+
+GDG Cartagena es una comunidad **independiente, sin fines de lucro**, impulsada por voluntarios y abierta a personas de todos los niveles.
+
+📍 Cartagena, Colombia
+
+🔗 GDG Community: [https://gdg.community.dev/gdg-cartagena/](https://gdg.community.dev/gdg-cartagena/)
+📸 Instagram: [https://www.instagram.com/gdg.cartagena/](https://www.instagram.com/gdg.cartagena/)
+💼 LinkedIn: [https://www.linkedin.com/in/giselleulloa/](https://www.linkedin.com/in/giselleulloa/)
+💻 GitHub: [https://github.com/GDG-Cartagena](https://github.com/GDG-Cartagena)
+
+---
+
+*This is an independent Google Developer Group. GDG Cartagena is not an official Google product.*
